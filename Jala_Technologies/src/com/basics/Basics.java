@@ -1,4 +1,4 @@
-package java.basics;
+package com.basics;
 
 //class is created using class keyword followed by name of the class here the class name is "Basics"
 public class Basics {
