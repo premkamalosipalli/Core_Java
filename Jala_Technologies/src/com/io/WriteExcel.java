@@ -40,7 +40,7 @@ public class WriteExcel {
         }
          
          
-        try (FileOutputStream outputStream = new FileOutputStream("studnet.xlsx")) {
+        try (FileOutputStream outputStream = new FileOutputStream("resources/studnet.xlsx")) {
             workbook.write(outputStream);
         }
     }
