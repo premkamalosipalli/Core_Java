@@ -7,7 +7,7 @@ public class NullPointerException {
 		String nullValue=null;
 		try {
 			
-			if(nullValue.equals("null")) {
+			if("null".equals(nullValue)) {
 				
 				System.out.println("Sample");
 			}else {
