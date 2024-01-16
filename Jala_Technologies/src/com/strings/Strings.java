@@ -32,7 +32,7 @@ public class Strings {
 		
 		System.out.println("Matches:"+names.matches("Kamal"));
 		
-		System.out.println("Equals:"+name.equals("Osipalli"));
+		System.out.println("Equals:"+"Osipalli".equals(name));
 		
 		System.out.println("Equals Ignore Case:"+names.equalsIgnoreCase(concatination));
 		
